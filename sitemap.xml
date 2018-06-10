@@ -168,12 +168,6 @@
   </url>
   
   <url>
-    <loc>https://gethub102.github.io/</loc>
-    <lastmod>2018-06-09T22:11:16+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gethub102.github.io/tags/pagination/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -260,6 +254,12 @@
   <url>
     <loc>https://gethub102.github.io/tags/vimeo/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gethub102.github.io/</loc>
+    <lastmod>2018-06-09T22:11:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
