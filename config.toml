@@ -1,6 +1,6 @@
+baseurl = "https://gethub102.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-baseurl = "http://example.org/"
 theme = "hugo-tranquilpeak-theme"
 
 
